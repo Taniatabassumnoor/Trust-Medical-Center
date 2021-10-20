@@ -1,0 +1,17 @@
+.about-banner{
+    background-image: url("../../images/banner/doctor-nurses-special-equipment.jpg"),
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+    min-height: 100vh;
+    width: 100%;
+  /* border: 1px solid red; */
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-position: center;
+}
+.hero-about{
+   padding: 22%;
+   font-size: 60px;
+   color: rgb(241, 229, 210);
+}

@@ -1,0 +1,72 @@
+{
+    "singleService": [
+        {
+            "login":{
+                "id": 1
+            },
+            "name": "Neurology Surgery",
+            "shortDescription": "It’s the medical specialty concerned with the prevention, diagnosis, surgical treatment.",
+            "longDescription": "Neurological Surgery is a discipline of medicine and that specialty of surgery that provides the operative and nonoperative management (i.e., critical care, prevention, diagnosis, evaluation, treatment, and rehabilitation) of disorders of the central, peripheral, and autonomic nervous systems.",
+            "mediumdescription":"With more than 40 years of experience in healthcare consulting, we deliver results to help grow your health. Our comprehensive medical billing services provide you best health care. We are proud of our 97.6% client satisfaction rating. It is a direct result of our focus on understanding how to meaningfully improve the Physical and mental health of our customers",
+            "surgeryImg":"https://imgs.classicfm.com/images/94205?width=1000&crop=16_9&signature=ELlBOePyxCvmcm2HODLnr54qGN8="
+            
+        },
+        {
+            "login":{
+                "id": 2
+            },
+            "name": "Nephron Kidney",
+            "shortDescription": "It’s the medical emergency concerned with the prevention of kidneys, diagnosis, treatment.",
+            "longDescription": "Each of your kidneys is made up of about a million filtering units called nephrons. Each nephron includes a filter, called the glomerulus, and a tubule. The nephrons work through a two-step process: the glomerulus filters your blood, and the tubule returns needed substances to your blood and removes wastes.",
+            "mediumdescription":"With more than 40 years of experience in healthcare consulting, we deliver results to help grow your health. Our comprehensive medical billing services provide you best health care. We are proud of our 97.6% client satisfaction rating. It is a direct result of our focus on understanding how to meaningfully improve the Physical and mental health of our customers",
+            "surgeryImg":"https://www.rghospitals.com/assets/media/800x400/What-surgical-options-can-be-used-for-kidney-stone-treatment.jpg"
+            
+        },
+        {
+            "login":{
+                "id": 3
+            },
+            "name": "Dental Care",
+            "shortDescription": "A comprehensive high-quality dental care to all its clients that will result in a long-lasting smile.",
+            "longDescription": "Dental care. Dental care is the maintenance of healthy teeth and may refer to: Oral hygiene, the practice of keeping the mouth and teeth clean in order to prevent dental disorders. Dentistry, the professional care of teeth, including professional oral hygiene and dental surgery.Dental care. Dental care is the maintenance of healthy teeth and may refer to: Oral hygiene, the practice of keeping the mouth and teeth clean in order to prevent dental disorders.",
+            "mediumdescription":"With more than 40 years of experience in healthcare consulting, we deliver results to help grow your health. Our comprehensive medical billing services provide you best health care. We are proud of our 97.6% client satisfaction rating. It is a direct result of our focus on understanding how to meaningfully improve the Physical and mental health of our customers",
+            "surgeryImg":"https://ichef.bbci.co.uk/news/976/cpsprodpb/2291/production/_110894880_gettyimages-1055182908.jpg"
+            
+        },
+        {
+            "login":{
+                "id": 4
+            },
+            "name": "Eye Surgery",
+            "shortDescription": "The laser procedure is done on the eye to eliminate refractive error and make eye healthy.",
+            "longDescription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden.",
+            "mediumdescription":"With more than 40 years of experience in healthcare consulting, we deliver results to help grow your health. Our comprehensive medical billing services provide you best health care. We are proud of our 97.6% client satisfaction rating. It is a direct result of our focus on understanding how to meaningfully improve the Physical and mental health of our customers",
+            "surgeryImg":"https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2021/06/eye_surgery_GettyImages1178747575_Thumb.jpg"
+          
+        },
+        {
+            "login":{
+                "id": 5
+            },
+            "name": "Medical Test",
+            "shortDescription": "A timely health check-up should be undertaken so as to make your future secure from an emergency.",
+            "longDescription": "A medical test is a medical procedure performed to detect, diagnose, or monitor diseases, disease processes, susceptibility, or to determine a course of treatment. Medical tests relate to clinical chemistry and molecular diagnostics, and are typically performed in a medical laboratory.Medical tests can be classified by their purposes, the most common of which are diagnosis, screening and evaluation.",
+            "mediumdescription":"With more than 40 years of experience in healthcare consulting, we deliver results to help grow your health. Our comprehensive medical billing services provide you best health care. We are proud of our 97.6% client satisfaction rating. It is a direct result of our focus on understanding how to meaningfully improve the Physical and mental health of our customers",
+            "surgeryImg":"https://theentrepreneur.co.ke/wp-content/uploads/2021/04/istockphoto-1289183630-170667a.jpg"
+           
+        },
+        {
+            "login":{
+                "id": 6
+            },
+            "name": "Liver Surgery",
+            "shortDescription": "A liver resection is the surgical removal of all or a portion of the liver. It is also referred to as a hepatectomy, full or partial.",
+            "longDescription": "Liver resection is the surgical removal of a portion of the liver. This operation is usually done to remove various types of liver tumors that are located in the resected portion of the liver.",
+            "mediumdescription":"With more than 40 years of experience in healthcare consulting, we deliver results to help grow your health. Our comprehensive medical billing services provide you best health care. We are proud of our 97.6% client satisfaction rating. It is a direct result of our focus on understanding how to meaningfully improve the Physical and mental health of our customers",
+            "surgeryImg":"https://img2.chinadaily.com.cn/images/202105/24/60aadfc6a31024adbdc97e7a.jpeg"
+           
+        }
+        
+        
+    ]
+}

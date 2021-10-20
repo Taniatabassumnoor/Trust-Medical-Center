@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Latest Technology",
+        "shortDescription": "We have an ultramodern multi-specialty hospital equipped with advanced and latest technology.",
+        "img": "https://i.ibb.co/Ph5pVh4/innovation.png"
+    },
+    {
+        "id": 2,
+        "name": "24/7 Customer support",
+        "shortDescription": "We always ensure that our patients receive the highest possible standards of health care 24X7.",
+        "img": "https://i.ibb.co/2gxf4dB/customer.png"
+    },
+    {
+        "id": 3,
+        "name": "Certified Doctors.",
+        "shortDescription": "You will receive extraordinary service and individualized care. Inotura is an ISO 9001:2015 certified hospital.",
+        "img": "https://i.ibb.co/Q9W3wbP/circular-label-with-certified-stamp.png"
+    },
+    {
+        "id": 4,
+        "name": "Cure guaranteed",
+        "shortDescription": "We give the best possible services and results, we are committed to continual education & learning.",
+        "img": "https://i.ibb.co/dBtCzzb/cure.png"
+    }
+]

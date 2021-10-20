@@ -1,0 +1,10 @@
+.nav a{
+    padding: 15px;
+    font-size: 25px;
+    text-decoration: none;
+}
+.nav-head{
+    font-size: 30px;
+   margin-right: 5%;
+   font-weight: bolder;
+}

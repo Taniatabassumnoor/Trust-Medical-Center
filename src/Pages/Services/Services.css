@@ -1,0 +1,8 @@
+.card-style{
+    background-color: rgba(240, 248, 255, 0.781);
+}
+.card-style:hover{
+    box-shadow: 4px 4px 7px gray;
+    border-radius: 10px;
+    border: 1px solid cyan;
+}
