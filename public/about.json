@@ -1,26 +1,26 @@
 [
     {
         "id": 1,
-        "name": "Latest Technology",
-        "shortDescription": "We have an ultramodern multi-specialty hospital equipped with advanced and latest technology.",
-        "img": "https://i.ibb.co/Ph5pVh4/innovation.png"
+        "name": "Hiking Guider",
+        "shortDescription": "We have an experienced guider ",
+        "img": "https://cdn-icons-png.flaticon.com/128/1142/1142682.png"
     },
     {
         "id": 2,
         "name": "24/7 Customer support",
-        "shortDescription": "We always ensure that our patients receive the highest possible standards of health care 24X7.",
-        "img": "https://i.ibb.co/2gxf4dB/customer.png"
+        "shortDescription": "We always ensure that our customers receive the highest possible standards support of 24X7.",
+        "img": "https://cdn-icons-png.flaticon.com/128/686/686348.png"
     },
     {
         "id": 3,
-        "name": "Certified Doctors.",
-        "shortDescription": "You will receive extraordinary service and individualized care. Inotura is an ISO 9001:2015 certified hospital.",
-        "img": "https://i.ibb.co/Q9W3wbP/circular-label-with-certified-stamp.png"
+        "name": "Premium Hotel Reservation",
+        "shortDescription": "You will receive premium hotel reservation",
+        "img": "https://cdn-icons.flaticon.com/png/128/562/premium/562674.png?token=exp=1635785100~hmac=9d81f02366f866071f03061b89bc7aec"
     },
     {
         "id": 4,
-        "name": "Cure guaranteed",
-        "shortDescription": "We give the best possible services and results, we are committed to continual education & learning.",
-        "img": "https://i.ibb.co/dBtCzzb/cure.png"
+        "name": "Premium Support",
+        "shortDescription": "We give the best possible services and support, we are committed to do this",
+        "img": "https://cdn-icons.flaticon.com/png/128/5465/premium/5465889.png?token=exp=1635785169~hmac=3f3cdd525c87a651b04c943edbf8ff31"
     }
 ]

@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import { Card, Col, Container, Row } from 'react-bootstrap';
-import context from 'react-bootstrap/esm/AccordionContext';
 import { useHistory, useParams } from 'react-router';
 
 const SingleService = () => {

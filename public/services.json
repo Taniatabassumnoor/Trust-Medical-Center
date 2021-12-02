@@ -3,43 +3,55 @@
         "id": 1,
         "name": "Neurology Surgery",
         "shortDescription": "It’s the medical specialty concerned with the prevention, diagnosis, surgical treatment.",
-        "img": "https://i.ibb.co/sm4mg2C/brain.png"
+        "img": "https://i.ibb.co/xg2ftHb/plane-ticket.png"
     },
     {
         "id": 2,
         "name": "Nephron Kidney",
         "shortDescription": "It’s the medical emergency concerned with the prevention of kidneys, diagnosis, treatment.",
-        "img": "https://i.ibb.co/kgkjHKk/kidney.png"
+        "img": "https://i.ibb.co/nDmQDpf/hotel.png"
     },
     {
         "id": 3,
         "name": "Dental Care",
         "shortDescription": "A comprehensive high-quality dental care to all its clients that will result in a long-lasting smile.",
-        "img": "https://i.ibb.co/jy3pMWh/tooth.png"
+        "img": "https://i.ibb.co/bsqVYp1/vacations.png"
     },
     {
         "id": 4,
         "name": "Eye Surgery",
         "shortDescription": "The laser procedure is done on the eye to eliminate refractive error and make eye healthy.",
-        "img": "https://i.ibb.co/v12cfPv/laser-surgery.png"
+        "img": "https://i.ibb.co/k8SCsj6/suitcases.png"
     },
     {
         "id": 5,
         "name": "Medical Test",
         "shortDescription": "A timely health check-up should be undertaken so as to make your future secure from an emergency.",
-        "img": "https://i.ibb.co/WKZjtB8/medical-symbol.png"
+        "img": "https://i.ibb.co/b3Tc0dj/customs-1.png"
     },
     {
         "id": 6,
         "name": "Liver Surgery",
         "shortDescription": "A liver resection is the surgical removal of all or a portion of the liver. It is also referred to as a hepatectomy, full or partial.",
-        "img": "https://i.ibb.co/XYrPkNp/liver.png"
+        "img": "https://i.ibb.co/tbC0y1f/hiking.png"
     },
     {
         "id": 7,
+        "name": "Liver Surgery",
+        "shortDescription": "A liver resection is the surgical removal of all or a portion of the liver. It is also referred to as a hepatectomy, full or partial.",
+        "img": "https://i.ibb.co/PgzSDRc/camping.png"
+    },
+    {
+        "id": 8,
+        "name": "Liver Surgery",
+        "shortDescription": "A liver resection is the surgical removal of all or a portion of the liver. It is also referred to as a hepatectomy, full or partial.",
+        "img": "https://i.ibb.co/G9BDdtS/honeymoon.png"
+    },
+    {
+        "id": 9,
         "name": "Ear Infection",
         "shortDescription": "An ear infection is an infection of the middle ear, the air-filled space behind the eardrum that contains the tiny vibrating bones of the ear.",
-        "img": "https://i.ibb.co/J3c3gfQ/ear.png"
+        "img": "https://i.ibb.co/pK8qtHX/caravan.png"
     }
     
     
